@@ -1,4 +1,6 @@
-This is a 21 point poker game. The game is exciting and the play is fresh and unique. Friends who like chess and card games don't miss it! (it's just a single game, it doesn't involve real online gambling)
+这是一款有趣的单机扑克游戏，非常好玩。
+独创拉斯维加斯生涯模式，玩法新鲜独特。
+喜欢棋牌游戏的朋友们可千万不要错过哦！
 
 ![image](https://github.com/blackjack21play/blackjack_game/blob/master/appli.png)
 
