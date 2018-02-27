@@ -2,7 +2,7 @@
 独创拉斯维加斯生涯模式，玩法新鲜独特。
 喜欢棋牌游戏的朋友们可千万不要错过哦！
 
-![image](https://github.com/blackjack21play/blackjack_game/blob/master/appli.png)
+![image](https://github.com/blackjack21play/blackjack_game/blob/master/applica.png)
 
 Framework
 
