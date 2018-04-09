@@ -1,8 +1,6 @@
-这是一款有趣的单机扑克游戏，非常好玩。
-独创拉斯维加斯生涯模式，玩法新鲜独特。
-喜欢棋牌游戏的朋友们可千万不要错过哦！
+It's an interesting single poker game. It's very fun. Creative Las Vegas career model, play fresh and unique. Friends who like blackjack games don't miss it!
 
-![image](https://github.com/blackjack21play/blackjack_game/blob/master/applica.png)
+![image](https://github.com/blackjack21play/blackjack_game/blob/master/appl.png)
 
 Framework
 
