@@ -1,6 +1,6 @@
 It's an interesting single poker game. It's very fun. Creative Las Vegas career model, play fresh and unique. Friends who like blackjack games don't miss it!
 
-![image](https://github.com/blackjack21play/blackjack_game/blob/master/appl.png)
+![image](https://github.com/blackjack21play/blackjack_game/blob/master/appll.png)
 
 Framework
 
